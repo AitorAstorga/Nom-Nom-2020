@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{30d54e4b-0807-4d6f-bf42-7d804928b3b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\screens">
+      <UniqueIdentifier>{091b1ac4-3c62-4628-a931-b37d1decc1ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="includes">
+      <UniqueIdentifier>{3f258f36-779c-470d-8276-fdba8df9de5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="includes\screens">
+      <UniqueIdentifier>{7846f849-c96d-4211-8392-0f9a1be4b2f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="includes\simpleSdlWrapper">
+      <UniqueIdentifier>{b0a891fa-2954-4d32-beb0-a9512b4847da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\simpleSdlWrapper">
+      <UniqueIdentifier>{952eb2ea-1e88-42f3-8f5b-663089909c35}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\dynamic_images.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\screens\challenges.c">
+      <Filter>src\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="src\screens\levels.c">
+      <Filter>src\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="src\screens\menu.c">
+      <Filter>src\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="src\screens\screens.c">
+      <Filter>src\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="src\screens\shop.c">
+      <Filter>src\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\ebentoak.c">
+      <Filter>src\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\graphics.c">
+      <Filter>src\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\imagen.c">
+      <Filter>src\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\soinua.c">
+      <Filter>src\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\text.c">
+      <Filter>src\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="src\screens\game.c">
+      <Filter>src\screens</Filter>
+    </ClCompile>
+    <ClCompile Include="src\screens\leaderboard.c">
+      <Filter>src\screens</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="includes\dynamic_images.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\images.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\screens\challenges.h">
+      <Filter>includes\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\screens\game.h">
+      <Filter>includes\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\screens\levels.h">
+      <Filter>includes\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\screens\menu.h">
+      <Filter>includes\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\screens\screens.h">
+      <Filter>includes\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\screens\shop.h">
+      <Filter>includes\screens</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\ebentoak.h">
+      <Filter>includes\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\graphics.h">
+      <Filter>includes\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\imagen.h">
+      <Filter>includes\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\soinua.h">
+      <Filter>includes\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\text.h">
+      <Filter>includes\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\screens\leaderboard.h">
+      <Filter>includes\screens</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
