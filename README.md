@@ -119,7 +119,7 @@ You must have a Windows operating system to play this game. Unfortunately, we we
 
 To get a local copy up and running follow these simple example steps.
 
-1. Download and unzip the file _NomNom2020.zip_
+1. Download and unzip the file _[NomNom2020.zip](https://github.com/AitorAstorga/Nom-Nom-2020/releases/tag/1.0.0)_
 2. Place the newly created folder in any location you wish
 3. Execute _Nom Nom 2020.exe_
 * OPTIONAL: you can create a shortcut to your Desktop for easy access to the game!
