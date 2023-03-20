@@ -37,7 +37,7 @@
   <h3 align="center">Nom Nom 2020</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Small university project game made in 2020 by [Aitor Astorga Saez de Vicuña](https://github.com/AitorAstorga) and [Danel Mazkiaran Hernandez](https://github.com/)
     <br />
     <a href="https://github.com/AitorAstorga/Nom-Nom-2020"><strong>Explore the docs »</strong></a>
     <br />
