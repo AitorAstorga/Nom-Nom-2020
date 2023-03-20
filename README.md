@@ -38,7 +38,7 @@
   <h3 align="center">Nom Nom 2020</h3>
 
   <p align="center">
-    Small university project game made in 2020 by <a href="https://github.com/AitorAstorga">Aitor Astorga Saez de Vicuña</a> <a href="https://github.com/">Danel Mazkiaran Hernandez</a>
+    Small university project game made in 2020 by <a href="https://github.com/AitorAstorga">Aitor Astorga Saez de Vicuña</a> and <a href="https://github.com/">Danel Mazkiaran Hernandez</a>
     <br />
     <a href="https://github.com/AitorAstorga/Nom-Nom-2020"><strong>Explore the docs »</strong></a>
     <br />
