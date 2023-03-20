@@ -161,7 +161,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 <!-- CONTACT -->
 ## Contact
 
-Your Name - a.astorga.sdv@gmail.com
+Aitor Astorga Saez de Vicuña - a.astorga.sdv@gmail.com
 
 Project Link: [https://github.com/AitorAstorga/Nom-Nom-2020](https://github.com/AitorAstorga/Nom-Nom-2020)
 
