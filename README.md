@@ -28,7 +28,6 @@
 
 
 <!-- PROJECT LOGO -->
-[Choose an Open Source License](https://choosealicense.com)
 <br />
 <div align="center">
   <a href="https://github.com/AitorAstorga/Nom-Nom-2020">
@@ -83,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
 This game was developed as a small university project in 2020 (wouldn't have guessed by the title huh :satisfied:). The mechanic is pretty simple: You control Alvaro, a guy in a tiny spaceship who wants to steal coins from different worlds. But the planets will defende themselves, avoid their shots!
 
