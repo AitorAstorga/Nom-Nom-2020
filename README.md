@@ -37,7 +37,7 @@
   <h3 align="center">Nom Nom 2020</h3>
 
   <p align="center">
-    Small university project game made in 2020 by <a href="https://github.com/AitorAstorga">Aitor Astorga Saez de Vicuña</a> and <a href="https://github.com/">Danel Mazkiaran Hernandez</a>
+    Small university project game made in 2020 by <a href="https://github.com/AitorAstorga">Aitor Astorga Saez de Vicuña</a> and <a href="https://github.com/danmazkih">Danel Mazkiaran Hernandez</a>
     <br />
     <a href="https://github.com/AitorAstorga/Nom-Nom-2020"><strong>Explore the docs »</strong></a>
     <br />
@@ -163,6 +163,10 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 ## Contact
 
 Aitor Astorga Saez de Vicuña - a.astorga.sdv@gmail.com
+* [![LinkedIn][linkedin-shield]][linkedin-url-aitor]
+
+Danel Mazkiaran Hernandez - danel.mazkiaran@gmail.com
+* [![LinkedIn][linkedin-shield]][linkedin-url-danel]
 
 Project Link: [https://github.com/AitorAstorga/Nom-Nom-2020](https://github.com/AitorAstorga/Nom-Nom-2020)
 
@@ -197,6 +201,7 @@ Project Link: [https://github.com/AitorAstorga/Nom-Nom-2020](https://github.com/
 [license-shield]: https://img.shields.io/github/license/AitorAstorga/Nom-Nom-2020.svg?style=for-the-badge
 [license-url]: https://github.com/AitorAstorga/Nom-Nom-2020/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/aitor-astorga-saez-de-vicuña
+[linkedin-url-aitor]: https://linkedin.com/in/aitor-astorga-saez-de-vicuña
+[linkedin-url-danel]: https://linkedin.com/in/danel-mazkiaran-hernandez-67a970248
 
 [product-screenshot]: NomNom2020/img/menu.bmp
